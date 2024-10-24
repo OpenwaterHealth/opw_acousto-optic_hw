@@ -35,7 +35,7 @@ Electrical connections for the system can be found below:
 - [AOM plate](opw_acousto-optic_AomPlate.EASM)
 - [AOM layout](opw_acousto-optic_AomPlateLayout.png)
 - [AOM BOM](opw_acousto-optic_AomPlateBOM.xlsx)
-- [Gumstick Altium Files link (Gen1 HW repo)](gumstick_AltiumFiles.zip)
+- [Gumstick Altium Files link (Gen1 HW repo)](https://github.com/OpenwaterHealth/opw_bloodflow_gen1_hw/blob/main/gumstick_3-0.zip)
 - [Various in vivo small animal holders and setups](Animal_Holders)
 
 ## Additional acousto-optic repositories here:
